@@ -1,4 +1,6 @@
-
+# Integrantes
+- Vinícius Monteiro RM 555088
+- Rafael Gaspar RM 557228
 # **Monitor Solar com ESP32 e MQTT**
 
 Este projeto utiliza o microcontrolador ESP32 para monitorar e exibir em tempo real as informações de um sistema solar fotovoltaico, como tensão, corrente e potência. Os dados são enviados via protocolo MQTT, permitindo sua análise em dispositivos conectados.
